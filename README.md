@@ -87,31 +87,7 @@ Install the following tools on Windows:
 - Android SDK
 - [Git](https://git-scm.com/)
 
-### Run the Project
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/pathilalitha889-jpg/ClearCue.git
-   ```
-
-2. Open the project folder:
-
-   ```bash
-   cd ClearCue
-   ```
-
-3. Download dependencies:
-
-   ```bash
-   flutter pub get
-   ```
-
-4. Run the application on a connected Android device or running emulator:
-
-   ```bash
-   flutter run
-   ```
 
 ### Build the Android APK
 
